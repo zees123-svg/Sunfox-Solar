@@ -53,6 +53,11 @@ nav li:first-child {
     display: none;
 }
 
+.cross-button {
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
 .sidebar {
     position: fixed;
     top: 0;
