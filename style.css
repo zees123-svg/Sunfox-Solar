@@ -823,6 +823,7 @@ nav li:first-child {
     .card3 {
         width: 100%;
         height: 340px;
+        border-radius: 0px;
     }
 
     .card3 .card-header2,
